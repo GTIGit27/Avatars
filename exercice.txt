@@ -1,0 +1,3 @@
+1) créer un formulaire d'inscription (nom, prénom, adresse, cp, ville, photo(file))
+2) bdd mysql table clients (champs + champs photo: nom du fichier laurent.jpg)
+3) liste_clients.php qui affiche [photo] Nom Prénom Adresse CP Ville
